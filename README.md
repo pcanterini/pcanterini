@@ -4,7 +4,7 @@ I'm Pedro, a seasoned **Front-End Engineer** with over 12 years of experience in
 
 #### 🔍 Passion for User Experience
 
-I've always been passionate about clean, efficient, and user-friendly design. Over the years, I've honed my skills in a myriad of front-end technologies, frameworks, and libraries, always with the end-user in mind.
+I've always been passionate about clean, efficient, and user-friendly design. Over the years, I've refined my skills in multiple front-end technologies, frameworks, and libraries, always with the end-user in mind.
 
 #### 🍎 Venturing into iOS Development
 
